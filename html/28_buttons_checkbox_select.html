@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forms</title>
+</head>
+<body>
+    <form action="/search">
+        <input type="checkbox" name="agree_tos" id="agree">
+        <label for="agree">I Agree</label>
+        <p>
+            <input type="radio" name="size" id="s" checked>
+            <label for="s">S</label>
+            <input type="radio" name="size" id="m">
+            <label for="m">M</label>
+            <input type="radio" name="size" id="l">
+            <label for="l">L</label>
+        </p>
+        <p>
+            <label for="meal">Please select a meal:</label>
+            <select name="meal">
+                <option value="veg">Veg</option>
+                <option value="non_veg">Non Veg</option>
+            </select>
+        </p>
+        <button>Submit</button>
+    </form>
+</body>
+</html>
