@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+    text-decoration: underline purple;
+    font-weight: 400;
+    letter-spacing: 6px;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    line-height: 1.6;
+}
