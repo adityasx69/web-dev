@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    text-decoration: underline purple;
+    font-weight: 400;
+    letter-spacing: 6px;
+    font-size: 50px;
+    font-family: Segoe UI, Futura, Arial, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+p{
+    line-height: 1.6;
+}
