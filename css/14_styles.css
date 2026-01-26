@@ -1,0 +1,16 @@
+li {
+    color: blue;
+}
+
+.done {
+    color: grey;
+}
+
+#clear {
+    background-color: red;
+    color: white;
+}
+
+.list1 li {
+    color: darkgreen;
+}
