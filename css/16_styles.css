@@ -1,0 +1,15 @@
+body {
+    background-color: #f1faee;
+}
+
+button {
+    background-color: #a8dadc;
+}
+
+h3 {
+    color: #1d3557;
+}
+
+p + button {
+    background-color: pink;
+}
