@@ -1,0 +1,35 @@
+body {
+    background-color: #f1faee;
+}
+
+button {
+    background-color: #a8dadc;
+}
+
+a{
+    text-decoration: none;
+}
+
+h3 {
+    color: #1d3557;
+}
+
+
+a[href*="google"]{
+    color: blueviolet;
+}
+
+button:hover{
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+button:active{
+    background-color: blueviolet;
+}
+
+/* nth of type */
